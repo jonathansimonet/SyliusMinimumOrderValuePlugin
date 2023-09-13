@@ -5,8 +5,8 @@
     "description": "With this Sylius plugin a minimum order value can be set for each channel.",
     "license": "MIT",
     "require": {
-        "php": "^7.4 || ^8.0",
-        "sylius/sylius": ">=1.10.2 <1.11.0"
+        "php": "^7.4 || ^8.1",
+        "sylius/sylius": ">=1.10.2 <1.12.9"
     },
     "require-dev": {
         "behat/behat": "^3.8",
