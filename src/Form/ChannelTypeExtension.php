@@ -31,7 +31,6 @@ final class ChannelTypeExtension extends AbstractTypeExtension
             $options = [
                 'label' => 'nedac_sylius_minimum_order_value_plugin.ui.minimum_order_value',
                 'currency' => $currencyCode,
-                'attr' => ['disabled' => true],
                 'required' => false
             ];
 
